@@ -28,7 +28,6 @@ class App extends Component {
       <div className="App">
         <header className="App-header">UNIT 4 FINAL ASSESSMENT</header>
         <main>
-          YOUR TWO COMPONENTS WILL GO HERE
           <CircleSelector
             handleClick={this.handleClick}
             links={this.state.links}
